@@ -28,7 +28,7 @@
 
 | 图片1 | 图片2 |
 | :---: | :---: |
-| ![Fig.1]("src./probability-statistics-function-gallery.png") | ![Fig.2](src="./codex-usage-widget.png) |
+| ![Fig.1]("src="./codex-usage-widget.png") | ![Fig.2](src="./codex-usage-widget.png) |
 
 
 ## 🌱 正在成长
