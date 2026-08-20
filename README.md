@@ -18,7 +18,7 @@
 一个围绕概率、统计与常见函数的可视化网页，希望更直观展示参数调节对变量的影响（趋势）
 
 <p align="center">
-  <img src="./probability-statistics-function-gallery.png" alt="probability-statistics-function-gallery 项目预览" width="100%" />
+  <img src="./probability-statistics-function-gallery.png" alt="probability-statistics-function-gallery 项目预览" width="50%" />
 </p>
 
 ### [codex-usage-widget](https://github.com/yizhengarcanelec/codex-usage-widget)
@@ -26,7 +26,7 @@
 一个实时展示 Codex Tokens用量的小组件，强迫症主要是
 
 <p align="center">
-  <img src="./codex-usage-widget.png" alt="codex-usage-widget 项目预览" width="100%" />
+  <img src="./codex-usage-widget.png" alt="codex-usage-widget 项目预览" width="50%" />
 </p>
 
 ## 🌱 正在成长
