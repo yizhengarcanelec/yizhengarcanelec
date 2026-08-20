@@ -23,10 +23,9 @@
 
 <p align="center">
   <img src="./probability-statistics-function-gallery.png" alt="probability-statistics-function-gallery 项目预览" width="50%" />
-</p>
-<p align="center">
   <img src="./codex-usage-widget.png" alt="codex-usage-widget 项目预览" width="50%" />
 </p>
+
 
 ## 🌱 正在成长
 
