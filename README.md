@@ -26,9 +26,7 @@
   <img src="./codex-usage-widget.png" alt="codex-usage-widget 项目预览" width="50%" />
 </p>
 
-| 图片1 | 图片2 |
-| :---: | :---: |
-| ![Fig.1]("src="./codex-usage-widget.png") | ![Fig.2](src="./codex-usage-widget.png) |
+
 
 
 ## 🌱 正在成长
