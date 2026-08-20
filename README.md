@@ -6,8 +6,8 @@
 
 ## 🔭 最近在关注
 
-· 线性代数、概率统计的可视化表达
-
+· 线性代数的可视化表达
+· 入门机器学习
 
 ## 🧪 一些项目
 
@@ -17,7 +17,7 @@
 
 ### [codex-usage-widget](https://github.com/yizhengarcanelec/codex-usage-widget)
 
-一个实时展示 Codex Tokens用量的小组件，强迫症主要是
+一个实时展示 Codex Tokens用量的小组件，强迫症福音
 
 <p align="center">
   <img src="./probability-statistics-function-gallery.png" alt="probability-statistics-function-gallery 项目预览" width="43%" />&nbsp;&nbsp;<img src="./codex-usage-widget.png" alt="codex-usage-widget 项目预览" width="49.6%" />
