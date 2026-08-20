@@ -1,6 +1,6 @@
 # 👋 你好，我是 Flowstate
 
-> M(aterials)SE@SCUT｜还在直面学业。｜Work For Non-profit Impacts
+> M(aterials)SE@SCUT｜还在直面学业...｜Work For Non-profit Impacts
 
 对一切可视化的东西感兴趣，持续把想法变成可以分享的作品。
 
