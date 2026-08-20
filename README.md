@@ -22,7 +22,7 @@
 一个实时展示 Codex Tokens用量的小组件，强迫症主要是
 
 <p align="center">
-  <img src="./probability-statistics-function-gallery.png" alt="probability-statistics-function-gallery 项目预览" width="43%" />&nbsp;&nbsp;<img src="./codex-usage-widget.png" alt="codex-usage-widget 项目预览" width="50%" />
+  <img src="./probability-statistics-function-gallery.png" alt="probability-statistics-function-gallery 项目预览" width="43%" />&nbsp;&nbsp;<img src="./codex-usage-widget.png" alt="codex-usage-widget 项目预览" width="49.6%" />
 </p>
 
 
