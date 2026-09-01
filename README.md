@@ -12,6 +12,8 @@
 
 · 入门机器学习
 
+· COF
+
 ## 🧪 一些项目
 
 ### [probability-statistics-function-gallery](https://github.com/yizhengarcanelec/probability-statistics-function-gallery)
